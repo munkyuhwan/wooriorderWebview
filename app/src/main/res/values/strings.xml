@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">우리오더</string>
+    <string name="webview_url">https://wooriorder.co.kr/order1/front2/main/login.php</string>
+    <string name="app_dismiss">허용후 이용할 수 있습니다.</string>
+
+    <string name="default_notification_channel_id">123320211109052810040000</string>
+    <!--
+    <string name="kakao_app_key">267f7f7640f5ecd91e2d5c0e9ab9855a</string>
+    <string name="kakao_scheme">kakao267f7f7640f5ecd91e2d5c0e9ab9855a</string>
+    <string name="kakaolink_host">kakaolink</string>
+    <string name="facebook_app_id">466578750654373</string>
+    <string name="fb_login_protocol_scheme">fb466578750654373</string>
+    -->
+
+</resources>

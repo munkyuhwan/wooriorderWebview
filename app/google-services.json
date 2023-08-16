@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "457889737158",
+    "project_id": "bmmarket-71bd3",
+    "storage_bucket": "bmmarket-71bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457889737158:android:d2824d96888b0ee2e22ac7",
+        "android_client_info": {
+          "package_name": "kr.co.bmmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457889737158-n9opfu94fbqvvqhatlgr388l2tfp5e37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe25D3E92mnOLQjw8bZJsLHLeY2o1NDcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457889737158-n9opfu94fbqvvqhatlgr388l2tfp5e37.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457889737158-90coheo258o288234sdtj3o2tr0skvp1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.bmmarket"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
